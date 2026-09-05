@@ -145,9 +145,10 @@ Built as part of a hands-on portfolio demonstrating practical credit risk analyt
 **Connect with me** — open to Credit Risk Analytics, Power BI Development, and Finance Automation roles.
 
 📇 **Contact**
-- 💼 LinkedIn: [linkedin.com/in/syed-ali-raza1990](https://linkedin.com/in/syed-ali-raza1990)
-- 📧 Email: Alisherazi51215@Yahoo.Com
-- 📱 WhatsApp: +92 313 5006069
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Ali%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-ali-raza1990)
+[![Email](https://img.shields.io/badge/Email-Alisherazi51215%40Yahoo.Com-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:Alisherazi51215@Yahoo.Com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20313%205006069-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923135006069)
 
 ---
 
